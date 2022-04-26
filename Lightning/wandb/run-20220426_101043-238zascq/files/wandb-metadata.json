@@ -1,0 +1,24 @@
+{
+    "os": "macOS-12.3.1-arm64-arm-64bit",
+    "python": "3.9.12",
+    "heartbeatAt": "2022-04-26T17:10:46.121862",
+    "startedAt": "2022-04-26T17:10:43.694484",
+    "docker": null,
+    "cpu_count": 8,
+    "cuda": null,
+    "args": [
+        "-f",
+        "/Users/jb_mini/Library/Jupyter/runtime/kernel-5d08f6b6-5eb4-4e3b-8f61-4352d6cae0d9.json"
+    ],
+    "state": "running",
+    "program": "<python with no main file>",
+    "git": {
+        "remote": "git@RYP_github:rypaik/MachineLearningPub",
+        "commit": "49eeefb89748ebf06f303eabb5f8459646dcc0a0"
+    },
+    "email": "ryanpaik@protonmail.com",
+    "root": "/Users/jb_mini/GITHUB/RYP_GITHUB/MachineLearningPub",
+    "host": "M1Mini.local",
+    "username": "jb_mini",
+    "executable": "/Users/jb_mini/.virtualenvs/Lightning-RFBK4n8t/bin/python"
+}
